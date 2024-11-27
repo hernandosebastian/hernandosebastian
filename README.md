@@ -14,7 +14,7 @@ I work with **React** and **NestJS**. I’m always open to discussing new opport
 - [**my-mood-core-ui**](https://github.com/hernandosebastian/my-mood-core-ui): Web app to track user mood over time, with testing and documentation (deployment in progress).
 - [**my-mood-core-api**](https://github.com/hernandosebastian/my-mood-core-api): API for the my-mood app, integrating AWS services, with testing and documentation (deployment in progress).
 
-## 📊 GitHub Stats
+## 🔍 GitHub Stats
 
 ![Sebastián's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hernandosebastian&show_icons=true&count_private=true&include_all_commits=true&show=stars,commits,prs_merged&theme=github_dark_dimmed&hide_title=true)
 <br>
