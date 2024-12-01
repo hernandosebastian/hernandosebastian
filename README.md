@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHdDPdkqtAyCg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705084961634?e=1738800000&v=beta&t=9dyijszkLiWaj3-9LxZpdhYo2BSqUPSlEKuEuFMhws0" />
+
 ## 🚀 Overview
 
 Hi, **I'm Sebastián Hernando**. I am a Full Stack Developer from Argentina. Currently working at [@bigger-tech](https://github.com/bigger-tech) as a developer.
