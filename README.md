@@ -6,7 +6,7 @@ I work with **React** and **NestJS**. I’m always open to discussing new opport
 
 ## 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/sebastianhernando/) | [Email](mailto:sebastianhernando.dev@gmail.com) | [Resume](#) (In Progress)
+[LinkedIn](https://www.linkedin.com/in/sebastianhernando/) | [Email](mailto:sebastianhernando.dev@gmail.com) | [Resume](https://drive.google.com/uc?export=download&id=1ICuEfp8reO1CKkm314cUGyLSHBFgzq4Y)
 
 ## 🌟 Featured Projects
 
