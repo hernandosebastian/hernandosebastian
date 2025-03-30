@@ -1,26 +1,29 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHdDPdkqtAyCg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705084961634?e=1738800000&v=beta&t=9dyijszkLiWaj3-9LxZpdhYo2BSqUPSlEKuEuFMhws0" />
+# 👨‍💻 Sebastián Hernando | Ingeniero de Software
 
-## 🚀 Overview
+Soy **Sebastián Hernando**, **Ingeniero de Software Full-Stack** con más de **2+ años** de experiencia en soluciones escalables y buenas prácticas de ingeniería como **SOLID**, **testing automatizado** y **optimización de procesos**. Actualmente, en **Bigger**, desarrollo soluciones para **MVPs**, optimizo plataformas en **producción** y agrego nuevas funcionalidades en proyectos existentes.
 
-Hi, **I'm Sebastián Hernando**. I am a Full Stack Developer from Argentina. Currently working at [@bigger-tech](https://github.com/bigger-tech) as a developer.
-<br>
-I work with **React** and **NestJS**. I’m always open to discussing new opportunities and professional connections.
+## 🌐 Conecta conmigo
 
-## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sebastianhernando/)
+- [Correo electrónico](mailto:sebastianhernando.dev@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/sebastianhernando/) | [Email](mailto:sebastianhernando.dev@gmail.com) | [Resume](https://drive.google.com/uc?export=download&id=1ICuEfp8reO1CKkm314cUGyLSHBFgzq4Y)
 
-## 🌟 Featured Projects
+## 🚀 Proyectos Destacados
 
-- [**localstack-ts-api-gateway-lambda-dynamodb-crud-example**](https://github.com/hernandosebastian/localstack-ts-api-gateway-lambda-dynamodb-crud-example): A serverless CRUD API example with TypeScript, simulating AWS services locally using LocalStack.
-- [**my-mood-core-ui**](https://github.com/hernandosebastian/my-mood-core-ui): Web app to track user mood over time, with testing and documentation (deployment in progress).
-- [**my-mood-core-api**](https://github.com/hernandosebastian/my-mood-core-api): API for the my-mood app, integrating AWS services, with testing and documentation (deployment in progress).
+- [**My Mood**](https://my-mood.com.ar/): Aplicación web diseñada para rastrear el estado de ánimo del usuario a lo largo del tiempo, permitiendo la visualización y análisis de su evolución. Visítala en [my-mood.com.ar](https://my-mood.com.ar/), ya está en producción.
 
-## 🔍 GitHub Stats
 
-![Sebastián's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hernandosebastian&show_icons=true&count_private=true&include_all_commits=true&show=stars,commits,prs_merged&theme=github_dark_dimmed&hide_title=true)
-<br>
+## 💼 Visita mi Portfolio
 
-## 💻 Top Languages
+Puedes ver más sobre mis proyectos y habilidades en mi [**Portfolio**](https://sebastianhernando-dev.netlify.app/).
 
-![Sebastián's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandosebastian&layout=compact&theme=github_dark_dimmed)
+
+## 🛠️ Tecnologías y Herramientas
+
+- **Frontend:** React, Vue, JavaScript, TypeScript
+- **Backend:** Node.js, NestJS, PHP, Laravel
+- **Bases de datos:** MySQL, MSSQL, MongoDB, DynamoDB, TypeORM
+- **Cloud:** AWS (Lambda, API Gateway, Cognito, SES, AppRunner, Amplify, etc.)
+- **Testing:** Jest, Cypress, Playwright, Supertest
+- **DevOps:** CI/CD, Docker, Serverless, Git, SonarQube
+- **Otros:** Stripe, Stellar, React Query, LocalStack, Oracle
