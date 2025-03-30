@@ -2,6 +2,9 @@
 
 Soy **Sebastián Hernando**, **Ingeniero de Software Full-Stack** con más de **2+ años** de experiencia en soluciones escalables y buenas prácticas de ingeniería como **SOLID**, **testing automatizado** y **optimización de procesos**. Actualmente, en **Bigger**, desarrollo soluciones para **MVPs**, optimizo plataformas en **producción** y agrego nuevas funcionalidades en proyectos existentes.
 
+**¿Interesado en colaborar o en contacto profesional?**  
+Estaré encantado de responder a cualquier consulta o propuesta.
+
 ## 🌐 Conecta conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/sebastianhernando/)
