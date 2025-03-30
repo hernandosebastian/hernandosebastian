@@ -22,7 +22,7 @@ Puedes ver más sobre mis proyectos y habilidades en mi [**Portfolio**](https://
 
 ## 📄 Curriculum Vitae
 
-Puedes ver mi Curriculum Vitae completo [aquí](https://github.com/hernandosebastian/hernandosebastian/blob/main/sebastian-hernando-curriculum-vitae.pdf).
+Puedes ver mi Curriculum Vitae completo [aquí](https://sebastianhernando-dev.netlify.app/assets/pdf/sebastian-hernando-curriculum-vitae.pdf).
 
 ## 🛠️ Tecnologías y Herramientas
 
