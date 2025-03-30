@@ -20,6 +20,9 @@ Estaré encantado de responder a cualquier consulta o propuesta.
 
 Puedes ver más sobre mis proyectos y habilidades en mi [**Portfolio**](https://sebastianhernando-dev.netlify.app/).
 
+## 📄 Curriculum Vitae
+
+Puedes ver mi Curriculum Vitae completo [aquí](https://github.com/hernandosebastian/hernandosebastian/blob/main/sebastian-hernando-curriculum-vitae.pdf).
 
 ## 🛠️ Tecnologías y Herramientas
 
